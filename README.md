@@ -5,3 +5,5 @@ Sigma was originally developed for a automation machine tanslation web and not i
 The theme is intended for Webnovel.
 
 Sigma is open source and completely free. However, it needs need be developed further, particularly in terms of responsive design for devices such as mobile phones, tablets.
+
+<a href="alternative text"><img src="https://raw.githubusercontent.com/Sanjay5004/sigma/refs/heads/main/screenshot.png" align="middle" width="desired width" height="desired heigh"></a>
