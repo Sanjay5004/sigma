@@ -1,4 +1,4 @@
-# sigma webnovel theme
+# sigma Webnovel Theme
 
 Sigma was originally developed for a automation machine tanslation web and not intended for a public release. This is still reflected in the code, which takes several liberties not considered best practice. 
 
